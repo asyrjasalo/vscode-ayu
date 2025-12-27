@@ -1,3 +1,7 @@
+# based-ayu
+
+Based on [vscode-ayu version 1.1.0](https://github.com/ayu-theme/vscode-ayu/tree/29e8a12959371f31adbf9edbbb942711d672ddaf).
+
 ![vscode-ayu](assets/header.png)
 
 > Source from: https://github.com/dempfi/ayu
@@ -9,11 +13,11 @@ A simple theme with bright colors and comes in three versions — *dark*, *light
 ## Install
 
 ```shell
-ext install ayu
+ext install based-ayu
 ```
 
-Then go to `Preferences > Color Theme > Ayu Light(or Ayu Dark, or Ayu Mirage)`.
-If you want to setup File Icon, then go to `Preferences > File Icon Theme > Ayu`.
+Then go to `Preferences > Color Theme > Based Ayu Light(or Based Ayu Dark, or Based Ayu Mirage)`.
+If you want to setup File Icon, then go to `Preferences > File Icon Theme > Based Ayu`.
 
 ## Screenshots
 

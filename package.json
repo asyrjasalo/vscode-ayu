@@ -1,17 +1,17 @@
 {
-  "name": "ayu",
-  "displayName": "Ayu",
-  "description": "A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.",
-  "version": "1.1.1",
-  "publisher": "teabyii",
+  "name": "based-ayu",
+  "displayName": "Based Ayu",
+  "description": "Based on vscode-ayu version 1.1.0",
+  "version": "1.1.0",
+  "publisher": "asyrjasalo",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ayu-theme/vscode-ayu"
+    "url": "https://github.com/asyrjasalo/vscode-ayu"
   },
   "bugs": {
-    "url": "https://github.com/ayu-theme/vscode-ayu/issues",
-    "email": "teabyii@gmail.com"
+    "url": "https://github.com/asyrjasalo/vscode-ayu/issues",
+    "email": "opensource@syrjasalo.com"
   },
   "engines": {
     "vscode": "^1.13.0"
@@ -22,48 +22,48 @@
   "keywords": [
     "icon-theme",
     "theme",
-    "ayu"
+    "based-ayu"
   ],
-  "homepage": "https://github.com/ayu-theme/vscode-ayu",
+  "homepage": "https://github.com/asyrjasalo/vscode-ayu",
   "icon": "assets/logo.png",
   "contributes": {
     "themes": [
       {
-        "label": "Ayu Dark",
+        "label": "Based Ayu Dark",
         "uiTheme": "vs-dark",
-        "path": "./ayu-dark.json"
+        "path": "./based-ayu-dark.json"
       },
       {
-        "label": "Ayu Dark Bordered",
+        "label": "Based Ayu Dark Bordered",
         "uiTheme": "vs-dark",
-        "path": "./ayu-dark-bordered.json"
+        "path": "./based-ayu-dark-bordered.json"
       },
       {
-        "label": "Ayu Light",
+        "label": "Based Ayu Light",
         "uiTheme": "vs",
-        "path": "./ayu-light.json"
+        "path": "./based-ayu-light.json"
       },
       {
-        "label": "Ayu Light Bordered",
+        "label": "Based Ayu Light Bordered",
         "uiTheme": "vs",
-        "path": "./ayu-light-bordered.json"
+        "path": "./based-ayu-light-bordered.json"
       },
       {
-        "label": "Ayu Mirage",
+        "label": "Based Ayu Mirage",
         "uiTheme": "vs-dark",
-        "path": "./ayu-mirage.json"
+        "path": "./based-ayu-mirage.json"
       },
       {
-        "label": "Ayu Mirage Bordered",
+        "label": "Based Ayu Mirage Bordered",
         "uiTheme": "vs-dark",
-        "path": "./ayu-mirage-bordered.json"
+        "path": "./based-ayu-mirage-bordered.json"
       }
     ],
     "iconThemes": [
       {
-        "id": "ayu",
-        "label": "Ayu",
-        "path": "./ayu-icons.json"
+        "id": "based-ayu",
+        "label": "Based Ayu",
+        "path": "./based-ayu-icons.json"
       }
     ]
   },
