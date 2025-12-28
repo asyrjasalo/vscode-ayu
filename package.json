@@ -72,7 +72,7 @@
     "package": "vsce package",
     "publish": "vsce publish",
     "publish:openvsx": "ovsx publish",
-    "release": "npm run build; npm run package; npm run publish; npm run publish:openvsx"
+    "release": "npm run package; npm run publish; npm run publish:openvsx"
   },
   "devDependencies": {
     "@types/node": "^25.0.3",
