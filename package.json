@@ -2,7 +2,7 @@
   "name": "based-ayu",
   "displayName": "Based Ayu",
   "description": "Based on vscode-ayu version 1.1.0",
-  "version": "1.1.0",
+  "version": "1.1.1-dev",
   "publisher": "asyrjasalo",
   "license": "MIT",
   "repository": {
